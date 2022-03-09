@@ -167,7 +167,7 @@ h1.judul {
 .image {
 	height: 350px;
 	background-color: beige;
-	background-image: url(image/valorant.jpg);
+	background-image: url(valorant.jpg);
 	background-size: cover; /* Kode ini digunakan gambar keseluruhan teks bisa ditampilkan pada area yang tersedia */
 	background-position: 0 -143px; /* Kode ini digunakan untuk mengatur posisi dari gambar yang digunakan */
 	border-top: 6px solid #ff7b25;
